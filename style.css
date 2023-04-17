@@ -88,5 +88,9 @@ footer{
 }
 @media screen and (min-width:815px) {
     html{font-size: 18px;}
+    .profile-picture{
+        width: 180px;
+        border-radius: 50%;
+    }
     
 }
